@@ -30,4 +30,7 @@ print("minus: {}".format(func2(y, x)))
 print("multiplex: {}".format(func3(x, y)))
 print("function (x+y)*2 - z = {}".format(func4(x, y, z)))
 func5()
-func5()
+print("zelen'")
+
+s = 7
+print("sum: {}".format(func1(x, s)))
