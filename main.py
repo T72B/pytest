@@ -34,3 +34,4 @@ print("zelen'")
 
 s = 7
 print("sum: {}".format(func1(x, s)))
+print("minus: {}".format(func2(x, s)))
